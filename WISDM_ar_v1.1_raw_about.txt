@@ -29,10 +29,7 @@ Fields:
 	nominal, {
 		Walking
 		Jogging
-		Sitting
-		Standing
-		Upstairs
-		Downstairs }
+			 }
 
 *timestamp
 	numeric, generally the phone's uptime in nanoseconds
